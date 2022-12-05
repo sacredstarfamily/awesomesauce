@@ -1,7 +1,10 @@
 .container {
+  background: #1F1F1F;
   padding: 0 2rem;
 }
-
+.wallet-adapter-button-trigger {
+  background-color: #833BBE;
+}
 .main {
   min-height: 100vh;
   padding: 4rem 0;
