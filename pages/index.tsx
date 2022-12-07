@@ -11,7 +11,7 @@ const { connected } = useWallet();
   return (
     <div className={styles.container}>
       <Head>
-        <title>Buildoors</title>
+        <title>Awesomesauc3</title>
         <meta name="The NFT Collection for Buildoors" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
