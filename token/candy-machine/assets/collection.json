@@ -1,0 +1,15 @@
+{
+    "name": "Awesomesauce NFT Collection",
+    "symbol": "AWESOME",
+    "description": "Awesomesauce NFT collection for those who are awesome",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

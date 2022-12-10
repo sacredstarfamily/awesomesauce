@@ -1,0 +1,28 @@
+{
+    "name": "Awesomesauce NFT #9",
+    "symbol": "AWESOME",
+    "description": "Awesomesauce NFT #9 remember to smile",
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "smile"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "melted"
+        },
+        {
+            "trait_type": "face",
+            "value": "green"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
