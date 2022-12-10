@@ -596,7 +596,7 @@
 
 "@metaplex-foundation/js@^0.17.9":
   version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@metaplex-foundation/js/-/js-0.17.9.tgz#2dfa77bfe23acc118d35ff8678825036391eb7a1"
+  resolved "https://registry.npmjs.org/@metaplex-foundation/js/-/js-0.17.9.tgz"
   integrity sha512-msMGWSYetSVWmIXpDKI5Y3WZtTrCjF6QRQ8BpsXKoNs6xAKPvSuT9OGay/mbOs+/pMNHVPt8lFfl281yBN/MxA==
   dependencies:
     "@bundlr-network/client" "^0.8.8"
@@ -2442,7 +2442,7 @@ doctrine@^3.0.0:
 
 dotenv@^16.0.3:
   version "16.0.3"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.3.tgz#115aec42bac5053db3c456db30cc243a5a836a07"
+  resolved "https://registry.npmjs.org/dotenv/-/dotenv-16.0.3.tgz"
   integrity sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==
 
 drbg.js@^1.0.1:

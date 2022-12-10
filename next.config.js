@@ -2,5 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
 }
-
+module.exports = {
+  basePath: "./test",
+};
 module.exports = nextConfig

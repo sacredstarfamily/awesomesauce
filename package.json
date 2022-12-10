@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "license": "MIT",
   "private": false,
+  "homepage": "/test",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
     "create-bld-token": "ts-node ./token/bld/index.ts"
